@@ -1,6 +1,6 @@
 # How It Works
 
-Instead of manually setting up each server, you define your entire cluster—all your controller and worker nodes—in a single YAML configuration file (k0sctl.yaml).
+Instead of manually setting up each server, you define your entire cluster, all your controller and worker nodes—in a single YAML configuration file (k0sctl.yaml).
 
 Then, you simply run one command: `k0sctl apply`.
 
