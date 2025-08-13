@@ -43,7 +43,7 @@ spec:
   - role: worker
     ssh:
       address: 192.168.42.102 # replace with the worker's IP address
-      user: root
+      user: ubuntu
       keyPath: ~/.ssh/id_rsa
   - role: worker
     ssh:
